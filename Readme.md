@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # ArrhythmiaAI: End-to-End Arrhythmia Detection
 
 **ArrhythmiaAI** is a fully reproducible, production-ready deep learning pipeline for real-time arrhythmia detection using the [MIT-BIH Arrhythmia Database](https://physionet.org/content/mitdb/1.0.0/). The project covers the complete ML lifecycle from streaming data ingestion, preprocessing, robust label mapping, and model training (ConvGRU, LSTM, GRU), to deployment via TorchScript/ONNX, a FastAPI REST API, and a user-friendly Streamlit web demo. The codebase emphasizes transparency, explainability, and clinical relevance, making it ideal for both research and real-world prototyping.
