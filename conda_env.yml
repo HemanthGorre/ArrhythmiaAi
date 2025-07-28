@@ -1,0 +1,29 @@
+name: mitbih_env
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - wfdb
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.8  # or remove if you want CPU-only
+  - tqdm
+  - seaborn
+  - scipy
+  - pip
+  - torch
+  - numpy
+  - fastapi
+  - uvicorn
+  - requests
+  - streamlit
+  - gradio
+  - pydantic
+  - onnx
+  - onnxruntime
