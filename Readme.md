@@ -220,16 +220,7 @@ arrhythmiaai/
 
 ---
 
-## Screenshots
 
-* **\[Add image here]**: End-to-End Pipeline Diagram
-* **\[Add image here]**: Streamlit Web Demo (ECG upload & explainability)
-* **\[Add image here]**: Confusion Matrix for 6-class ConvGRU
-* **\[Add image here]**: Saliency Map Overlay Example
-
-*(Add images in `demo/assets/` and reference here)*
-
----
 
 ## Citations
 
@@ -241,7 +232,7 @@ If you use ArrhythmiaAI or its codebase, please cite:
   author = {Hemanth Gorrepati},
   institution = {Georgia State University},
   year = {2025},
-  note = {https://github.com/yourusername/arrhythmiaai}
+  note = {https://github.com/HemanthGorre/arrhythmiaai}
 }
 ```
 
@@ -254,12 +245,11 @@ If you use ArrhythmiaAI or its codebase, please cite:
 
 ## License and Contact
 
-This project is released under the **MIT License**.
-See [LICENSE](LICENSE) for details.
+
 
 **Contact:**
 Hemanth Gorrepati
-[hgorrepati1@student.gsu.edu](mailto:hgorrepati1@student.gsu.edu)
+[ghemanth2001@gmail.com](ghemanth2001@gmail.com)
 
 ---
 
@@ -273,12 +263,5 @@ Hemanth Gorrepati
 
 ---
 
-**Let me know if you want:**  
-- Example config files, extra sample code, or more detailed API docs  
-- Help generating/bundling demo images  
-- A LICENSE file template  
-- Adjustments for PyPI or Docker deployment  
-- Or any section tailored for a specific audience!
 
-**This README is ready to copy-paste—just update the GitHub repo URL and add images as needed.**
 ```
